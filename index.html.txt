@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>repl.it</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+
+    <header>
+		  <p class="name">Dennis Vitery</p>
+      <p class="title">Aspiring Software Developer</p>
+	  </header>
+
+    <main>
+      <br>
+      <br>
+		  <img src="profilePic.jpg"></img>
+      <h2>Hi! Im Dennis Vitery </h2>
+      <p> I am an aspiring Software Developer enrolled in the Thinkful Software Engineering course </p>
+      <p> I have a diverse amount of interests such as: </p>
+      <ul>
+        <li>Music - listening and creating it.</li>
+        <li>Religion and Spirituality.</li>
+        <li>History.</li>
+        <li>Books.</li>
+        <li>Reading in general.</li>
+        <li>Skateboarding.</li>
+        <li>Basketball.</li>
+        <li>Diet and Nutrition.</li>
+        <li>Holistic healing.</li>
+      </ul>
+      <hr>
+
+      <h2>About Dennis</h2> 
+
+      <p>I was born in Dallas, Texas. I spent most of my life there up until the age of 16 when My Family and Me moved to Mexico for some years. There I finished High School, got into college with a scholarship where i studied Industrial and Systems Engineering.</p>
+
+      <p>I didn't get to finish my studies since we decided to move back due to the escalating drug cartel violence that started to occur at that time.</p>
+
+      <p>Im am so happy to have started this path with Thinkful and to finally have decided to get back into Computer Programming.</p>
+
+      <p>Looking to become a well rounded and very skillful developer.</p>
+      <hr>
+      <h2>Contact Dennis</h2>
+      <p>Email me at <a href="mailto:dennisvitery1@gmail.com? subject=Hello Dennis"><b>dennisvitery1@gmail.com</b></a></p>
+      <p><a href="https://github.com/dennisvitery"><b>Github</b></a></p>
+      <br>
+	  </main>
+    
+    <footer>
+      <br>
+		  <p>© Copyright Information</p>
+		  <p>Credit to author/designer<br>
+      Links to related documents<br>
+      </p>
+    </footer>
+
+    <script src="script.js"></script>
+  </body>
+</html>
