@@ -2,38 +2,50 @@
 body{
  background-color: rgb(196, 160, 116); 
 }
+
+
+/* style for header */
 header{
   background-color: rgb(196, 160, 116);
   height: 100%;
   text-align: center;
+  color: beige;
 }
 
+
+/* style for main */
 main{
   padding-left: 20px;
   float: center;
-  background-color: white;
-  
-  
+  background-color: beige;  
 }
 
+
+/* style for text in footer and its text*/
 footer{
   background-color: rgb(196, 160, 116);
+  color: beige;
+  font-family: Gabriola Regular;
+  font-size: 30px;  
 }
 
 
-
+/* style for h1 class="name" */
 .name{
   text-align: center;
   font-family: EngraversGothic BT Regular;
-  font-size: 60px;
-  
+  font-size: 60px;  
 }
 
+
+/* style for h2 class="title" */
 .title{
   font-family: Gabriola Regular;
   font-size: 30px;
 }
 
+
+/* style for image at top of page */
 img{
   border-radius: 50%;
   width: 220px;
@@ -41,15 +53,39 @@ img{
   display: block;
   margin-left: auto;
   margin-right: auto;
-  border: 1px solid lightslategray;
-  padding: 5px;
-  
+  border: 2px solid rgb(196, 160, 116);
+  padding: 0px;  
 }
+
 
 h2{
   font-family: Trebuchet MS;
 }
 
+
+/* style for majority of text in main section */
 p, ul{
   font-family: Century751 BT;
+}
+
+
+/* style for links */
+a{
+text-decoration:none;
+}
+
+a:link{
+color: rgb(196, 160, 116);  
+}
+
+a:visited{
+color: blue;
+}
+
+a:hover{
+color: beige;
+}
+
+a:active{
+color: orange;
 }
